@@ -1,7 +1,13 @@
-### Github Tutorial
+# FRAGMENTO PODCAST
 
-####1. [How to Host Files on Github](http://www.labnol.org/internet/free-file-hosting-github/29092/)
+Única coisa que você vai achar aqui são as assinaturas de e-mail dos membros do FRAGMENTO.
 
-####2. [Github Gists for Non-Developers](http://www.labnol.org/internet/github-gist-tutorial/28499/)
+# USO
 
-Append ?raw=true to any file URL on Github to get the direct link.
+###. ÍCONES
+
+Acrescente ?raw=true ao final da URL do arquivo no GitHub pra anexá-lo em outros lugares.
+
+###. HTML
+
+Copie a assinatura pronta &/OU copie o HTML e cole como código especial, dependendo do servidor de e-mail.
